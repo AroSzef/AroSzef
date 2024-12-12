@@ -1,5 +1,5 @@
 <p align="center">
     <img width="100" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faroszef%2Fhit-counter&count_bg=%23C83D3D&title_bg=%23555555&icon=mercedes.svg&icon_color=%23FF5454&title=you&edge_flat=false)](https://hits.seeyoufarm.com" alt="views">
-</p>
+<p align="center">
     <img width="500" src="https://files.catbox.moe/oeyotd.gif" alt="sprout">
-</p>
+
